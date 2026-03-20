@@ -1,5 +1,9 @@
 # 專案名稱：Tribal_Governance_DAO (部落憲章與領地治理系統)
 
+> 📜 **[EVE Frontier 專案憲法與開發準則](https://github.com/Eve-Frontier-Changsha-2026/Constitution/blob/master/EVE_Frontier_Project_Constitution.md)**
+> 本專案的世界觀設定與底層相依資源，均遵從此憲法文檔之規範。
+
+
 ## 📌 概念簡介
 針對 EVE 中強大的公會政治與領土控制，我們結合 Sui 的多簽 (Multi-sig) 與安全存取控制機制，建立了一套透明且自動化的「聯盟治理憲章 (On-chain Charter)」。將所有權約定、徵稅制度、外交戰略落實到星門、精煉廠與據點防禦網的程式碼內，形成星際領主的實質約束力。
 
